@@ -2,7 +2,7 @@
 
 🎓 Sinh viên ngành Công nghệ Thông Tin  
 💻 Full-stack Developer | Yêu thích Flutter, Firebase, Web & Mobile  
-🌐 Website: [phuckk05.github.io](https://phuckk05.github.io)
+🌐 Website: [phuckk.me](https://phuckk.me)
 
 ## 🛠 Kỹ năng
 - Flutter (Dart), Firebase, JavaScript, HTML/CSS
